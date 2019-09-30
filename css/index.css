@@ -21,7 +21,7 @@ li {
     
 }
 li a{
-    color:darkgray;
+    color:black;
 }
 li a:hover,a:active{
     text-decoration: none;
@@ -41,7 +41,7 @@ li a:hover,a:active{
     padding-top:10%;
 }
 #up{
-color:cornflowerblue;
+color:blue;
 }
 #para2{
     font-family: 'B612 Mono', monospace;
